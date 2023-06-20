@@ -1,2 +1,2 @@
 # Labacore
-Labacore engine
+Labacore is a WebGL lab engine
